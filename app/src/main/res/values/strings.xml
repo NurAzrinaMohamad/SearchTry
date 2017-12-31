@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SearchHouseRent</string>
+    <string-array name="array_house">
+        <item>Apartment</item>
+        <item>Condominium</item>
+        <item>Bungalow</item>
+        <item>Terrace</item>
+
+    </string-array>
+</resources>
+
